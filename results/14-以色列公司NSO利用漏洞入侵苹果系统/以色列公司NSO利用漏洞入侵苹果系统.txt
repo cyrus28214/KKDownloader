@@ -1,0 +1,36 @@
+This is VOA News. Via remote, I'm Marissa Melton.
+这里是美国之音新闻。我是玛丽莎·梅尔顿，为您远程报道。
+An internet security watchdog group called Citizen Lab said on Monday a cyber surveillance company based in Israel developed a tool to break into Apple iPhones with a never-before-seen technique.
+周一，一家名为公民实验室的互联网安全监督组织表示，总部位于以色列的一家网络监控公司开发了一种工具，使用一种前所未见的技术侵入苹果手机。
+It said the technique has been in use since February.
+该公司表示，这项技术自2月份以来一直在使用。
+The discovery is important because of the critical nature of the vulnerability.
+这一发现之所以重要，是因为该漏洞的危害性。
+Citizen Lab says it requires no user interaction and affects all versions of Apple's operating systems except for those updated Monday.
+公民实验室表示，它不需要用户交互，并且涉及苹果操作系统的所有版本，除了周一更新的版本。
+The vulnerability developed by the Israeli firm named NSO defeats security systems designed by Apple in recent years.
+这家名为NSO的以色列公司开发的这一漏洞击败了苹果公司近年来设计的安全系统。
+Apple confirmed Citizen Lab's finding and said it fixed the vulnerability in Monday's software update.
+苹果证实了公民实验室的发现，并表示已在周一的软件更新中修复了该漏洞。
+In a statement to Reuters, NSO did not confirm or deny that it was behind the technique.
+在发给路透社的一份声明中，NSO既没有证实也没有否认它是该技术的幕后黑手。
+Citizen Lab said it found the malware on the phone of an unnamed Saudi activist and said the phone had been infected with spyware in February.
+公民实验室表示，他们在一名未透露姓名的沙特活动人士的手机上发现了这款恶意软件，并表示该手机曾在2月份被间谍软件入侵。
+It's unknown how many other users may have been infected.
+目前还不知道有多少其他用户可能已经受到影响。
+U.S. President Joe Biden will host a first in-person summit of leaders of the so-called "Quad" countries - Australia, India, Japan and the United States - later this month.
+美国总统拜登将于本月晚些时候主持澳大利亚、印度、日本和美国四国（简称“四国”）领导人的首次会晤。
+The leaders of those countries will discuss cooperation to push back against China's growing assertiveness.
+这些国家的领导人将讨论合作，以遏制中国日益增长的自信。
+White House Press Secretary Jen Psaki said in a statement that the summit will be held in Washington on September 24th.
+白宫新闻秘书珍·莎琪在一份声明中表示，峰会将于9月24日在华盛顿举行。
+The leaders will be in the United States for the United Nations General Assembly in New York.
+各国领导人将在美国参加在纽约举行的联合国大会。
+President Biden is set to address that gathering on September 21st.
+拜登总统将于9月21日在该会议上发表讲话。
+This will be the first time the Quad members have met face-to-face although they held a virtual meeting in March that discussed COVID-19 vaccines and climate change.
+这将是“四国”成员的首次会面，尽管他们在3月举行过一次线上会议，讨论了新冠疫苗和气候变化问题。
+China was also on the agenda in that meeting.
+中国也在那次会议的议程上。
+This is VOA News.
+这里是美国之音新闻。
